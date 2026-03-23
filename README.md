@@ -6,7 +6,7 @@ We're SonicDE, the Sonic Desktop Environment. We aim to preserve and improve the
 
 ## History
 
-SonicDE originates from a patch set to KWin/X11 called [kwin-x11-improved - GitHub](https://github.com/guiodic/kwin-x11-improved) created by [guiodic](https://github.com/guiodic) on Jul 7, 2025. It has been merged with the whole KWin/X11 source by [Joseph Crowell](https://github.com/josephcrowell) and named „KDE-Lite“ in September 2025 and been rebranded to [SonicDE - GitHub] in December 2025.
+SonicDE originates from a patch set to KWin/X11 called [kwin-x11-improved - GitHub](https://github.com/guiodic/kwin-x11-improved) created by [guiodic](https://github.com/guiodic) on Jul 7, 2025. It has been merged with the whole KWin/X11 source by [Joseph Crowell](https://github.com/josephcrowell) and named „KDE-Lite“ in September 2025 and been rebranded to [SonicDE - GitHub](https://github.com/Sonic-DE) in December 2025.
 
 ## Current Development and Outlook
 
