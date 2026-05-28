@@ -10,7 +10,7 @@ SonicDE originates from a patch set to KWin/X11 called [kwin-x11-improved - GitH
 
 ## Current Development and Outlook
 
-Our current main task is forking the libraries that SonicDE depends on and removing the leftover Wayland parts everywhere to better concentrate on the X11 support. Feature-wise there is work ongoing to [implement a Vulkan Backend](https://github.com/Sonic-DE/sonic-win/issues/13). We‘d also like to make use of the expected new features of [XLibre](https://github.com/X11Libre) and remain compatible with [X.Org Server](https://gitlab.freedesktop.org/xorg/xserver) for as long as possible. Besides SonicDE on Linux, we like to support the BSDs where KDE/X11 already runs today and stay init system agnostic.
+Our current main task is forking the KDE components that SonicDE depends on and removing the leftover Wayland parts everywhere to better concentrate on the X11 support. Feature-wise there is work ongoing to [implement a Vulkan Backend](https://github.com/Sonic-DE/sonic-win/issues/13). We‘d also like to make use of the expected new features of [XLibre](https://github.com/X11Libre) and remain compatible with [X.Org Server](https://gitlab.freedesktop.org/xorg/xserver) for as long as possible. Besides SonicDE on Linux, we like to support the BSDs where KDE/X11 already runs today and stay init system agnostic.
 
 You can find the SonicDE source code at [SonicDE - GitHub](https://github.com/Sonic-DE).
 
@@ -22,8 +22,9 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 
 | Distribution | Notes |
 | - | - |
-| Artix Linux | [PlasmaAndSonicDesktop - Artix Wiki](https://wiki.artixlinux.org/Site/PlasmaAndSonicDesktop) |
-| All Arch Distros | [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
+| All Arch Distros |  [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
+| All Arch Distros |  [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
+| Artix Linux | [SonicDE for Artix Linux - Homepage](https://sonicde-artix.github.io) |
 | Debian | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
 | Devuan | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
 | Vendefoul Wolf | [Vendefoul Wolf - Sourceforge](https://vendefoul-wolf-linux.sourceforge.io) |
