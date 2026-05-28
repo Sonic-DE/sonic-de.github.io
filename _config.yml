@@ -1,2 +1,5 @@
 remote_theme: "jekyll/minima@bf9ef98"
 title: SonicDE, the Sonic Desktop Environment
+
+minima:
+  hide_site_feed_link: true
