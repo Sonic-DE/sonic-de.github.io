@@ -37,6 +37,7 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 | Gentoo | [SonicDE on Gentoo - GitHub](https://github.com/sonicde-gentoo) |
 | NixOS | [SonicDE on NixOS - GitHub](https://github.com/sonicde-nixos) |
 | OpenMandriva | [OMA/sonic-win - GitHub](https://github.com/OpenMandrivaAssociation/sonic-win) [OMA/sonic-workspace - GitHub](https://github.com/OpenMandrivaAssociation/sonic-workspace/) |
+| Slackware | [r1w1s1/sonicde-SlackBuild - Slackware Community Forge](https://forge.slackware.nl/r1w1s1/sonicde-SlackBuild) |
 
 ## Getting in Contact
 
