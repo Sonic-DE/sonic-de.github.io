@@ -22,11 +22,12 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 
 | Distribution | Notes |
 | - | - |
-| All Arch Distros |  [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
-| All Arch Distros |  [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
+| Arch Linux-based |  [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
+| Arch Linux-based |  [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
 | Artix Linux | [SonicDE for Artix Linux - Homepage](https://sonicde-artix.github.io) |
 | Debian | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
 | Devuan | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
+| RHEL-based | [SonicDE for Enterprise Linux](https://sonicde-fedora-el.github.io/) |
 | Vendefoul Wolf | [Vendefoul Wolf - Sourceforge](https://vendefoul-wolf-linux.sourceforge.io) |
 
 ### Packaging in Progress
