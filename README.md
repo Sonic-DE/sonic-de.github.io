@@ -1,4 +1,4 @@
-![A screenshot of SonicDE](./images/sonicshot.jpg)
+![A screenshot of SonicDE](./img/sonicshot.jpg)
 
 Hello,
 

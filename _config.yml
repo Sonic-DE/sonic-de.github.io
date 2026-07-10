@@ -1,5 +1,34 @@
-remote_theme: "jekyll/minima@bf9ef98"
 title: SonicDE, the Sonic Desktop Environment
+description: |
+  SonicDE aims to preserve and improve the X11-specific aspects of KDE.
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: img/default-card.png
+      logo: img/logo.svg
+      strip_title: true
+
+# Theme
+remote_theme: "jekyll/minima@bf9ef98"
+theme: minima
 
 minima:
   hide_site_feed_link: true
+
+# Plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+## jekyll-seo-tag
+twitter:
+  username: SonicDesktop
+
+titles_from_headings:
+  enabled: false
