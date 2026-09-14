@@ -20,14 +20,14 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 
 | Distribution | Notes |
 | - | - |
-| Arch Linux-based |  [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
-| Arch Linux-based |  [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
-| RHEL-based | [SonicDE for Enterprise Linux](https://sonicde-fedora-el.github.io/) |
-| Vendefoul Wolf | [Vendefoul Wolf - Sourceforge](https://vendefoul-wolf-linux.sourceforge.io) |
-| Slackware | [r1w1s1/sonicde-SlackBuild - Slackware Community Forge](https://forge.slackware.nl/r1w1s1/sonicde-SlackBuild) |
-| Void Linux | [SonicDE on Void Linux · GitHub](https://github.com/sonicde-void) |
-| Manjaro Linux |  [SonicDE for Manjaro Linux - Homepage](https://sonicde-manjaro.github.io) |
+| Arch Linux-based | [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
+| Arch Linux-based | [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
 | Artix Linux | [SonicDE for Artix Linux - Homepage](https://sonicde-artix.github.io) |
+| Manjaro Linux | [SonicDE for Manjaro Linux - Homepage](https://sonicde-manjaro.github.io) |
+| RHEL-based | [SonicDE for Enterprise Linux](https://sonicde-fedora-el.github.io/) |
+| Slackware | [r1w1s1/sonicde-SlackBuild - Slackware Community Forge](https://forge.slackware.nl/r1w1s1/sonicde-SlackBuild) |
+| Vendefoul Wolf | [Vendefoul Wolf - Sourceforge](https://vendefoul-wolf-linux.sourceforge.io) |
+| Void Linux | [SonicDE on Void Linux · GitHub](https://github.com/sonicde-void) |
 
 ### Packaging in Progress
 
