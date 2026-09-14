@@ -23,6 +23,7 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 | Arch Linux-based | [SonicDE for Arch Linux - Homepage](https://sonicde-arch.github.io) |
 | Arch Linux-based | [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
 | Artix Linux | [SonicDE for Artix Linux - Homepage](https://sonicde-artix.github.io) |
+| Bluestar Linux | [Bluestar Linux - SourceForge](https://sourceforge.net/projects/bluestarlinux) |
 | Manjaro Linux | [SonicDE for Manjaro Linux - Homepage](https://sonicde-manjaro.github.io) |
 | RHEL-based | [SonicDE for Enterprise Linux](https://sonicde-fedora-el.github.io/) |
 | Slackware | [r1w1s1/sonicde-SlackBuild - Slackware Community Forge](https://forge.slackware.nl/r1w1s1/sonicde-SlackBuild) |
