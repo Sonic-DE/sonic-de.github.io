@@ -24,6 +24,7 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 | Arch Linux-based | [sonicde-meta - AUR](https://aur.archlinux.org/packages/sonicde-meta) |
 | Artix Linux | [SonicDE for Artix Linux - Homepage](https://sonicde-artix.github.io) |
 | Bluestar Linux | [Bluestar Linux - SourceForge](https://sourceforge.net/projects/bluestarlinux) |
+| Gentoo | [SonicDE on Gentoo - GitHub](https://github.com/sonicde-gentoo) |
 | Manjaro Linux | [SonicDE for Manjaro Linux - Homepage](https://sonicde-manjaro.github.io) |
 | RHEL-based | [SonicDE for Enterprise Linux](https://sonicde-fedora-el.github.io/) |
 | Slackware | [r1w1s1/sonicde-SlackBuild - Slackware Community Forge](https://forge.slackware.nl/r1w1s1/sonicde-SlackBuild) |
@@ -37,7 +38,6 @@ Thanks to our contributors, there is already work ongoing to package SonicDE for
 | Debian | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
 | Devuan | [sonicde-debian/debian - GitHub](https://github.com/sonicde-debian/debian) |
 | FreeBSD | [SonicDE on FreeBSD - GitHub](https://github.com/sonicde-freebsd) |
-| Gentoo | [SonicDE on Gentoo - GitHub](https://github.com/sonicde-gentoo) |
 | NixOS | [SonicDE on NixOS - GitHub](https://github.com/sonicde-nixos) |
 | OpenMandriva | [OMA/sonic-win - GitHub](https://github.com/OpenMandrivaAssociation/sonic-win) [OMA/sonic-workspace - GitHub](https://github.com/OpenMandrivaAssociation/sonic-workspace/) |
 
